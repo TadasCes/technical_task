@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vainius_Vilkelis_technical/1.0.0": {
+        "runtime": {
+          "Vainius_Vilkelis_technical.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vainius_Vilkelis_technical/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

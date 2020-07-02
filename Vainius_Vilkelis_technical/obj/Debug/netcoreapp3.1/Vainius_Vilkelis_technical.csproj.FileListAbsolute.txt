@@ -1,0 +1,13 @@
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\bin\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.exe
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\bin\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.deps.json
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\bin\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.runtimeconfig.json
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\bin\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.runtimeconfig.dev.json
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\bin\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.dll
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\bin\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.pdb
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\obj\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.csprojAssemblyReference.cache
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\obj\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\obj\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.AssemblyInfo.cs
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\obj\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\obj\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.dll
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\obj\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.pdb
+C:\Users\Vartotojas\source\repos\Vainius_Vilkelis_technical\Vainius_Vilkelis_technical\obj\Debug\netcoreapp3.1\Vainius_Vilkelis_technical.genruntimeconfig.cache
